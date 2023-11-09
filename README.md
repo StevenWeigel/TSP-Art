@@ -1,5 +1,8 @@
 # TSP-Art
 
+Demo:
+https://youtu.be/0IladTpq5X4?si=s0Ncv7JYhdX4wu43
+
 This is a replication of the following article:
 
 *Weighted Voronoi Stippling*, Adrian Secord. In: Proceedings of the 2nd
